@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 洧杰部落格
 subtitle: ''
 description: ''
 keywords:
@@ -60,8 +60,8 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
-  per_page: 2
+  path: '/blog'
+  per_page: 5
   order_by: -date
 
 # Category & Tag
